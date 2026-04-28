@@ -48,7 +48,7 @@ Instead of relying on a simple average, all Level-1 Out-Of-Fold (OOF) prediction
 Clone the repository and ensure your `train.csv` and `test.csv` are in the root directory.
 
 ```bash
-git clone [https://github.com/yourusername/DataAImers-Molecular-Stacking.git](https://github.com/yourusername/DataAImers-Molecular-Stacking.git)
-cd DataAImers-Molecular-Stacking
+git clone [https://github.com/rittika03/Hybrid-GNN-Tree-Molecular-Predictor.git](https://github.com/rittika03/Hybrid-GNN-Tree-Molecular-Predictor.git)
+cd Hybrid-GNN-Tree-Molecular-Predictor
 jupyter notebook data-aimers-track-a.ipynb
 # Or upload directly to Kaggle/Google Colab and run all cells
