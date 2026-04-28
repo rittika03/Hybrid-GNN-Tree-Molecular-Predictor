@@ -50,4 +50,5 @@ Clone the repository and ensure your `train.csv` and `test.csv` are in the root 
 ```bash
 git clone [https://github.com/yourusername/DataAImers-Molecular-Stacking.git](https://github.com/yourusername/DataAImers-Molecular-Stacking.git)
 cd DataAImers-Molecular-Stacking
-python main.py
+jupyter notebook data-aimers-track-a.ipynb
+# Or upload directly to Kaggle/Google Colab and run all cells
